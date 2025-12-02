@@ -210,4 +210,12 @@ interact with each other. This reveals nonlinear dependencies and helps with fea
 
 ---
 
-<img width="809" height="815" alt="image" src="https://github.com/user-attachments/assets/b0e0a9ea-8233-47b0-b0b9-a7fff06c95c1" />
+<img width="1446" height="1079" alt="image" src="https://github.com/user-attachments/assets/40cccaf1-1e77-4530-b945-634d7938750a" />
+
+<img width="1042" height="1079" alt="image" src="https://github.com/user-attachments/assets/f90f0539-6ca5-4651-b477-9dcfb1f527cb" />
+
+<img width="1915" height="619" alt="image" src="https://github.com/user-attachments/assets/ffa23185-1c6a-4129-a142-cac4908cf9d7" />
+
+<img width="1913" height="750" alt="image" src="https://github.com/user-attachments/assets/bedb3d1a-f05b-43b1-b64f-fa1a2a22c61a" />
+
+

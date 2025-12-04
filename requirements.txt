@@ -8,6 +8,6 @@ adjustText
 nbformat
 mlba
 seaborn
-marimo
+marimo == 0.17.8
 uv
 joblib
